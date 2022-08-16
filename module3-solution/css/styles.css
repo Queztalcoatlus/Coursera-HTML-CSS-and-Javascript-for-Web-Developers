@@ -1,0 +1,57 @@
+/** HEADER **/
+body {
+    font-weight: bold;
+    color: black;
+}
+
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 1px solid;
+    border-color: black;
+}
+
+.navbar-brand a {
+    font-weight: bold;
+    color: black;
+}
+
+#collapsable-nav {
+    border: 0;
+}
+
+.sub-menu {
+    text-align: center;
+    background-color: white;
+    border-color: black;
+    border: 1px solid;
+    margin: 0;
+}
+
+.navbar-nav {
+    margin: 0px -15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+}
+
+.navbar-header .icon-bar {
+    height: 4px;
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h3{
+    margin-top: 1%;
+    text-align: center;
+}
+
+body>div.container-fluid{
+    background-color: gray;
+    margin: 5%;
+}
